@@ -1,0 +1,6 @@
+{
+  "name": "Chess AI Engine",
+  "description": "A feature-rich Chess game starring a local minimax AI of multiple difficulty levels and a Gemini Grandmaster AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

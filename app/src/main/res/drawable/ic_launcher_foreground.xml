@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Chess Crown Emblem (Centered in 66dp area) -->
+    <path
+        android:fillColor="#F0D9B5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 32,74 
+                   L 76,74 
+                   L 76,68 
+                   L 32,68 
+                   Z" />
+
+    <!-- Crown peaks -->
+    <path
+        android:fillColor="#F0D9B5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 32,68 
+                   L 36,44 
+                   L 46,56 
+                   L 54,34 
+                   L 62,56 
+                   L 72,44 
+                   L 76,68 
+                   Z" />
+
+    <!-- Ornaments / Diamonds on peaks -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 36,40 A 3.5,3.5 0 1,1 36,41 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,30 A 4,4 0 1,1 54,31 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 72,40 A 3.5,3.5 0 1,1 72,41 Z" />
+
+    <!-- Crown velvet core highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,62 L 62,62 L 54,44 Z" />
+
+</vector>
